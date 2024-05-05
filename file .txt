@@ -1,0 +1,95 @@
+## Clase numero 2 
+#COMANDOS EN VISUAL CODE
+crtl p > navegar dentro d elos archivos del visual estudio
+crtl>b desaprece la barra de trabajo y aparece
+crtl ñ > aprece la terminal y la desaparece
+
+*lf + alt y la flecha arriba o abajo
+*crtl x elemina linea
+*desplazar lineas en el codigo con alt + flecha arriba o abajo
+para replicar lines con el comando shi
+
+ con noches atodos me llamo morales 
+ con noches atodos me llamo   morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+holaaaaa atodos me llamo   leo morales 
+ llamo   leo morales 
+
+
+ leo morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+ con noches atodos me llamo   leo morales 
+
+#tema del multi cursor
+permite buscar patrones en el codigo ;
+ ejemplo cuando marco  a alguna  esto pude servir para 
+modificar la variable en caso de que sea erronea
+ *crtl + D  y agrego lo que sea 
+ *crtl f2 ,arca todos sin ecepcion en todo el  codigo
+ # para cuando se hace scrips
+ shif + alta y marcon con el cursor > genera un corte matricial
+crtl > navegar rapido por el final de la letra
+* no utilizar espacios solo con tab o sirve para el tabulado por bloques
+
+##MARKDOW
+utilizar simbolos para digitar el pdf
+comandos :
+#titulo
+** palbra en negrita
+*palabra en cursiva
+*** negrita y cursiva
+== texto resaltado
+~~ texto tachado
+comandos de linux y git
+md es la extencion de MARKDOW
+ code readme.md > crea el archivo readme
+convertir el markdow en pdf
+con shif + crtl p : < pdf se crea el pdf 
+ para crear archivos siempre desde la terminal con 
+ touch el archivo...
+ para abrir el archivo
+ code  el archivo...
+ en el markdow para agregar una linea de codigo en el pdf `
+ ``` java > el lenguaje del codigo a agregar``` para cerrar
+ **para caputurar de la pantalla documentar y se inserte en el markdonw
+con pwd  en la terminal sabemos en que directorio nos encontramos
+para camptura y ya tener la direcion donde guardarla
+copy phat el archivo en todo el sitema operativo
+se utilizara en los diagramas de lectura en aqrquitectura
+ pára agregar la imagen  se utiliza el comando
+}   pponer imagenes en el markdopw 
+![nombre del archivo](img/uno2.png) la captura debe estra guardad en el mismo directorio
+** para linker comando ;
+[buscador de google](https://google.com)
+
+
+tema 3 git
+combirnar el visual estudio con el git
+ la carpeta git es un espia dentro del repositorio
+ comandos  basicos del diario en git
+ 1  configurar el git init
+ 2 git status para ver el estado de las cosas
+ 3 git add agregar el rastreo del archivo
+ 4 git commit -m mensaje  para guradar
+investigar el como hacer cidgo habierto entre colaboradores
+git -- version : para verificar si el git funciona 
+# para verificar la identidad
+git config -- global user.name > arrija el nombre de usurio
+git config --global user.email > arroja el correo ingresado
+
+
+
